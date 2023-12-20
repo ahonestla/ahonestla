@@ -1,12 +1,6 @@
 ## Hi 👋 I'm Victor!
 
-I'm a data scientist with a strong robotics engineer background.
-
-### 👨🏻‍💻 About Me ###
-
-* 🔎 Looking for a new Data Scientist position.
-* 🎓 Graduated in 2023 from the ![Data Scientist curriculum](https://openclassrooms.com/fr/paths/793-data-scientist#path-tabs) of OpenClassrooms and Centrale Supélec.
-* 🏂 Fond of ski and snowboard.
+I'm a data scientist currently working for the **French Ministry of Higher Education And Research**
 
 ### 🛠 Tech Stack ###
 
